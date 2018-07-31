@@ -1,14 +1,15 @@
 
-## GitHub formatting
+# GitHub formatting
+This is a guide on how to properly format GitHub for clarity and legibility.
 
+It's very easy to make some words **bold** and other words *italic* with Markdown.
 
-Good guide:
-
+*Good guide:*
 [Here is a good guide from Github](https://guides.github.com/features/mastering-markdown/)
 
 
 
-# How to link
+## How to link
  [link to Google!](http://google.com)
  
 
