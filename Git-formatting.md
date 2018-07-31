@@ -41,6 +41,14 @@ To learn more about this project, please visit [The Studio](https://TheStudio.io
 
 
 
+## Small Text
+
+Normal text
+<sub><sup>Small text</sup></sub>
+<sub><sup><sub><sup>Tiny text</sup></sub></sup></sub>
+<sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup>REALLY SMALL TEXT</sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></sub>
+
+
 
 ## Browser & Wallet Compatibility 
  Browsers with wallets for both desktop and mobile that you can use with the Origin Demo DApp.  
