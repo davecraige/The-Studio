@@ -4,6 +4,34 @@ Browsers with wallets for both desktop and mobile that you can use with the Orig
 
 | OS | Application | Status | Notes |
 | ---- | -------- | ------ | ------ |
+| Mac | Chrome + Metamask extension | ✅ |
+| Mac | Firefox + Metamask extension | ✅  |
+| Mac | Brave with Metamask | ✅ |
+|  | |  |
+| PC | Chrome + Metamask extension | ⚪️ | Not tested |
+| PC | Firefox + Metamask extension | ⚪️ | Not tested |
+| PC | Brave with Metamask | ⚪️  | Not tested |
+|  |  |  |
+| iOS | Trust Wallet | ✅  | |
+| iOS | Toshi  |  🚫  | |
+| iOS | Toshi Developer  |  🚫  |  [Issue 327](https://github.com/OriginProtocol/origin-dapp/issues/327) |
+| iOS | Cipher  | 🚫  | Acquired by Coinbase. Not in development. |
+|   |  |  |
+| Android | Trust Wallet | ⚪️ | Not tested |
+| Android | Toshi Developer  |  ⚪️  |  Not tested |
+| Android | Toshi Developer  |  ⚪️  | Not tested 
+| Android | Cipher  |  🚫  | Not in development |
+
+<sub><sup>Tests for http://Demo.OriginProtocol.com </sup></sub>
+
+
+
+## Browser & Wallet Compatibility 
+Browsers with wallets for both desktop and mobile that you can use with the Origin Demo DApp.  
+
+
+| OS | Application | Status | Notes |
+| ---- | -------- | ------ | ------ |
 | Mac | Brave with Metamask | ✅ |
 | Mac | Chrome + Metamask extension | ✅ |
 | Mac | Firefox + Metamask extension | ✅  |
