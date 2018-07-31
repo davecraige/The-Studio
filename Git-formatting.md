@@ -1,5 +1,10 @@
 
 # GitHub formatting
+
+
+Good guide:
+Good guide from Github (https://guides.github.com/features/mastering-markdown/)
+
 The Studio is a Product design and growth studio.  
 
 We are specifically building a studio that focuses on :
@@ -11,6 +16,10 @@ To accomplish these goals, The Studio is beginning to pull people together to he
 
 To learn more about this project, please visit [The Studio](https://TheStudio.io) and view our presentation.
 
+
+# Links
+ [link to Google!](http://google.com)
+ 
 
 
 ## Browser & Wallet Compatibility 
