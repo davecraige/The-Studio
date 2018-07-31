@@ -1,9 +1,31 @@
 
-# GitHub formatting
+## GitHub formatting
 
 
 Good guide:
-Good guide from Github (https://guides.github.com/features/mastering-markdown/)
+
+[Here is a good guide from Github](https://guides.github.com/features/mastering-markdown/)
+
+
+
+# How to link
+ [link to Google!](http://google.com)
+ 
+
+ ### Creating a table
+
+ | OS | Application | Status |
+ | ---- | -------- | ------ |
+ | Mac | Brave with Metamask | ✅ |
+ | Mac | Chrome + Metamask extension | ✅ |
+ | Mac | Firefox + Metamask extension | ✅  |
+ |  | |  |
+ | PC | Brave with Metamask | ⚪️ not tested |
+ | PC | Chrome + Metamask extension | ⚪️ not tested |
+ | PC | Firefox + Metamask extension | ⚪️ not tested |
+
+
+
 
 The Studio is a Product design and growth studio.  
 
@@ -17,25 +39,11 @@ To accomplish these goals, The Studio is beginning to pull people together to he
 To learn more about this project, please visit [The Studio](https://TheStudio.io) and view our presentation.
 
 
-# Links
- [link to Google!](http://google.com)
- 
 
 
 ## Browser & Wallet Compatibility 
  Browsers with wallets for both desktop and mobile that you can use with the Origin Demo DApp.  
 
- ### Desktop
-
- | OS | Application | Status |
- | ---- | -------- | ------ |
- | Mac | Brave with Metamask | ✅ |
- | Mac | Chrome + Metamask extension | ✅ |
- | Mac | Firefox + Metamask extension | ✅  |
- |  | |  |
- | PC | Brave with Metamask | ⚪️ not tested |
- | PC | Chrome + Metamask extension | ⚪️ not tested |
- | PC | Firefox + Metamask extension | ⚪️ not tested |
 
 
  ### iOS 
