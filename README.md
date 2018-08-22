@@ -1,5 +1,5 @@
 # The-Studio
-The Studio is a Product design and growth studio.  
+We are building a creative studio.  
 
 We are specifically building a studio that focuses on :
 * Building great things
