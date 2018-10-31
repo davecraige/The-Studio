@@ -1,7 +1,7 @@
 # The-Studio
-We are building a creative studio.  
+We are building a creative studio. 😀 
 
-Please come join us in [The Studio Discord](https://discord.gg/xUbxaGh)!
+✔️ Please come join us in [The Studio Discord](https://discord.gg/xUbxaGh)!
 
 We are specifically building a studio that focuses on :
 * Building great things
